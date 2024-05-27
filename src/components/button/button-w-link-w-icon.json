@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_button_button_w_link_w_icons",
+  "info": {
+    "displayName": "ButtonWLinkWIcon"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    },
+    "link": {
+      "type": "text"
+    }
+  }
+}
