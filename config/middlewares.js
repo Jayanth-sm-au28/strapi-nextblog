@@ -13,7 +13,7 @@ module.exports = [
     name: 'strapi::cors',
     config: {
       enabled: true,
-      origin: ['http://localhost:3000'], // Add your Next.js frontend URL
+      origin: ['https://next-blog-phi-lime.vercel.app/'], // Add your Next.js frontend URL
     },
   },
 ];
